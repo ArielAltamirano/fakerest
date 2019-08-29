@@ -1,7 +1,7 @@
 {
   "meteringData": [
     {
-      "ean": "87169484123456",
+      "EAN": "87169484123456",
       "current": {
         "OrganizationId": "841913ef-9905-4374-8927-a88200cb9b3c",
         "ClusterReference": "1234AA 17",
@@ -70,6 +70,7 @@
       }
     },
     {
+      "EAN": "87169484654321",
       "current": {
         "OrganizationId": "841913ef-9905-4374-8927-a88200cb9b3c",
         "ClusterReference": "1234AA 17",
